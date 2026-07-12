@@ -1,2 +1,0 @@
-# AssetFlow
-For Odoo Hackathon
