@@ -96,7 +96,9 @@ The project includes seeded demo data to make evaluation easy. Seeded users and 
 - **Employee:** `employee@assetflow.com` / `Employee@123`
 
 Seeded departments and categories include IT, HR, and Operations plus assets like laptops, vehicles, and conference rooms.
-
+Test the live app
+Email: admin@assetflow.com
+Password: Admin@123
 ## Setup Instructions
 
 ### 1. Install dependencies
