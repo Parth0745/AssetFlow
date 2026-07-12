@@ -1,0 +1,11 @@
+# ==============================
+# Dependencies
+# ==============================
+node_modules/
+assetflow-frontend/node_modules/
+backend/node_modules/
+
+# ==============================
+# Environment variables
+# ==============================
+.env
